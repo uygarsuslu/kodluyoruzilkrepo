@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![ilk fotoğraf](https://github.com/halil879/kodluyoruzilkrepoHalil/raw/main/img/gitresim.png)
 
@@ -26,7 +26,7 @@ code .
 
 ## Contributing
 ---
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
 ## License
 ---
