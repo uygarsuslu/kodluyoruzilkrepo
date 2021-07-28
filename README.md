@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ```bash
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/uygarsuslu/kodluyoruzilkrepo.git
 
 ```
 
